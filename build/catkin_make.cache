@@ -1,0 +1,2 @@
+turtle_project
+-DCATKIN_DEVEL_PREFIX=/home/nilayoza/personal/projects/turtleProject/devel -DCMAKE_INSTALL_PREFIX=/home/nilayoza/personal/projects/turtleProject/install -G Unix Makefiles

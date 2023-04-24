@@ -1,0 +1,8 @@
+prefix=/home/nilayoza/personal/projects/turtleProject/install
+
+Name: turtle_project
+Description: Description of turtle_project
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
